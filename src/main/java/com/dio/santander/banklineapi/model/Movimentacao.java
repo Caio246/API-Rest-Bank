@@ -13,7 +13,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "tab_movimentacao")
-public class Movimentação {
+public class Movimentacao {
 	
 	@Id //Indica que será a coluna de ID da tabela
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
