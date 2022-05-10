@@ -1,6 +1,6 @@
 # Bank Line Api Rest
 
-API REST usando no back Java, Spring Boot e no front Angular. Além disso, publicada na nuvem (Heroku), para que clientes possam consumi-la através da Internet.
+API REST usando no back Java, Spring Boot e no front Angular. Além disso, publicada na nuvem (Heroku), com consumo de API, para que clientes possam consumi-la através da Internet.
 
 ## TECNOLOGIAS E FERRAMENTAS UTILIZADAS
 - Front-end:  <img align="center" alt="Caio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> e <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">.
